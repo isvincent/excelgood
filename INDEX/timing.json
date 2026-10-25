@@ -1,0 +1,47 @@
+{
+  "name": "INDEX",
+  "duration": 194.052291,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "INDEX",
+      "duration": 19.765805
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 15.821223999999999
+    },
+    {
+      "title": "第 2 列、第 3 欄",
+      "duration": 20.565669
+    },
+    {
+      "title": "換成第 3 列、第 1 欄",
+      "duration": 20.680543999999998
+    },
+    {
+      "title": "單欄資料，只指定位置",
+      "duration": 17.575646
+    },
+    {
+      "title": "搭配 MATCH，先找列位置",
+      "duration": 19.865488
+    },
+    {
+      "title": "超出範圍，出現參照錯誤",
+      "duration": 16.581089
+    },
+    {
+      "title": "用來源內的有效座標",
+      "duration": 22.210431
+    },
+    {
+      "title": "你來判斷",
+      "duration": 15.506395000000001
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.48
+    }
+  ]
+}

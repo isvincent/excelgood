@@ -1,0 +1,47 @@
+{
+  "name": "TRIM",
+  "duration": 201.04535200000007,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "TRIM",
+      "duration": 19.810748
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 19.321406
+    },
+    {
+      "title": "移除前後與多餘空格",
+      "duration": 21.285533
+    },
+    {
+      "title": "只有前後空格，也能清理",
+      "duration": 17.306711999999997
+    },
+    {
+      "title": "只有一般空格，結果是空字串",
+      "duration": 21.877142999999997
+    },
+    {
+      "title": "串接前，先整理文字",
+      "duration": 18.016009
+    },
+    {
+      "title": "網頁不換行空格，TRIM 不會移除",
+      "duration": 20.265669
+    },
+    {
+      "title": "先替換特殊空格，再整理",
+      "duration": 18.691701000000002
+    },
+    {
+      "title": "你來判斷",
+      "duration": 17.725624
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.744807
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "method": "Independent limited Python model; not native Excel recalculation",
+  "count": 102,
+  "examples": [
+    {
+      "function": "SORT",
+      "formula": "=SORT(A2:A5)",
+      "pass": true
+    },
+    {
+      "function": "SORT",
+      "formula": "=SORT(A2:A5,1,-1)",
+      "pass": true
+    },
+    {
+      "function": "SORT",
+      "formula": "=SORT(A2:B5,2,-1)",
+      "pass": true
+    },
+    {
+      "function": "SORT",
+      "formula": "=SORT(A2:D2,1,1,TRUE)",
+      "pass": true
+    },
+    {
+      "function": "SORT",
+      "formula": "=SORT(A2:B5,3,-1)",
+      "pass": true
+    },
+    {
+      "function": "SORT",
+      "formula": "=SORT(A2:B5,2,-1)",
+      "pass": true
+    },
+    {
+      "function": "FILTER",
+      "formula": "=FILTER(A2:C5,B2:B5=\"北\",\"無符合\")",
+      "pass": true
+    },
+    {
+      "function": "FILTER",
+      "formula": "=FILTER(A2:C5,C2:C5>=90,\"無符合\")",
+      "pass": true
+    },
+    {
+      "function": "FILTER",
+      "formula": "=FILTER(A2:C5,(B2:B5=\"北\")*(C2:C5>=80),\"無符合\")",
+      "pass": true
+    },
+    {
+      "function": "FILTER",
+      "formula": "=FILTER(A2:C5,(B2:B5=\"北\")+(C2:C5>=90),\"無符合\")",
+      "pass": true
+    },
+    {
+      "function": "FILTER",
+      "formula": "=FILTER(A2:C5,C2:C5>100)",
+      "pass": true
+    },
+    {
+      "function": "FILTER",
+      "formula": "=FILTER(A2:C5,C2:C5>100,\"無符合\")",
+      "pass": true
+    },
+    {
+      "function": "XMATCH",
+      "formula": "=XMATCH(\"P03\",A2:A5)",
+      "pass": true
+    },
+    {
+      "function": "XMATCH",
+      "formula": "=XMATCH(\"P03\",A2:A5,0,-1)",
+      "pass": true
+    },
+    {
+      "function": "XMATCH",
+      "formula": "=XMATCH(75,A2:A5,-1)",
+      "pass": true
+    },
+    {
+      "function": "XMATCH",
+      "formula": "=INDEX(B2:B5,XMATCH(\"P02\",A2:A5))",
+      "pass": true
+    },
+    {
+      "function": "XMATCH",
+      "formula": "=XMATCH(\"P99\",A2:A5)",
+      "pass": true
+    },
+    {
+      "function": "XMATCH",
+      "formula": "=IFNA(XMATCH(\"P99\",A2:A5),\"查無\")",
+      "pass": true
+    },
+    {
+      "function": "SORTBY",
+      "formula": "=SORTBY(A2:A5,C2:C5,-1)",
+      "pass": true
+    },
+    {
+      "function": "SORTBY",
+      "formula": "=SORTBY(A2:A5,C2:C5,1)",
+      "pass": true
+    },
+    {
+      "function": "SORTBY",
+      "formula": "=SORTBY(A2:C5,B2:B5,1,C2:C5,-1)",
+      "pass": true
+    },
+    {
+      "function": "SORTBY",
+      "formula": "=SORTBY(A2:A5,C2:C5,-1,D2:D5,1)",
+      "pass": true
+    },
+    {
+      "function": "SORTBY",
+      "formula": "=SORTBY(A2:A5,C2:C4,-1)",
+      "pass": true
+    },
+    {
+      "function": "SORTBY",
+      "formula": "=SORTBY(A2:A5,C2:C5,-1,D2:D5,1)",
+      "pass": true
+    },
+    {
+      "function": "LET",
+      "formula": "=LET(x,5,x+1)",
+      "pass": true
+    },
+    {
+      "function": "LET",
+      "formula": "=LET(x,10,x+1)",
+      "pass": true
+    },
+    {
+      "function": "LET",
+      "formula": "=LET(price,200,rate,0.9,price*rate)",
+      "pass": true
+    },
+    {
+      "function": "LET",
+      "formula": "=LET(total,SUM(A2:A4),total+total*0.05)",
+      "pass": true
+    },
+    {
+      "function": "LET",
+      "formula": "=LET(A1,5,A1+1)",
+      "pass": true
+    },
+    {
+      "function": "LET",
+      "formula": "=LET(amount,5,amount+1)",
+      "pass": true
+    },
+    {
+      "function": "RANDARRAY",
+      "formula": "=RANDARRAY(3,2,1,9,TRUE)",
+      "pass": true
+    },
+    {
+      "function": "RANDARRAY",
+      "formula": "=RANDARRAY(3,2,1,9,FALSE)",
+      "pass": true
+    },
+    {
+      "function": "RANDARRAY",
+      "formula": "=RANDARRAY(5,1,1,6,TRUE)",
+      "pass": true
+    },
+    {
+      "function": "RANDARRAY",
+      "formula": "=RANDARRAY()",
+      "pass": true
+    },
+    {
+      "function": "RANDARRAY",
+      "formula": "=RANDARRAY(3,2,9,1,TRUE)",
+      "pass": true
+    },
+    {
+      "function": "RANDARRAY",
+      "formula": "=RANDARRAY(3,2,1,9,TRUE)",
+      "pass": true
+    },
+    {
+      "function": "TEXTAFTER",
+      "formula": "=TEXTAFTER(A2,\"@\")",
+      "pass": true
+    },
+    {
+      "function": "TEXTAFTER",
+      "formula": "=TEXTAFTER(A2,\"-\",-1)",
+      "pass": true
+    },
+    {
+      "function": "TEXTAFTER",
+      "formula": "=TEXTAFTER(A2,\"-\",2)",
+      "pass": true
+    },
+    {
+      "function": "TEXTAFTER",
+      "formula": "=TEXTAFTER(A2,\"END\",1,1)",
+      "pass": true
+    },
+    {
+      "function": "TEXTAFTER",
+      "formula": "=TEXTAFTER(A2,\"@\")",
+      "pass": true
+    },
+    {
+      "function": "TEXTAFTER",
+      "formula": "=TEXTAFTER(A2,\"@\",1,0,0,\"缺少@\")",
+      "pass": true
+    },
+    {
+      "function": "TEXTBEFORE",
+      "formula": "=TEXTBEFORE(A2,\"@\")",
+      "pass": true
+    },
+    {
+      "function": "TEXTBEFORE",
+      "formula": "=TEXTBEFORE(A2,\"-\",-1)",
+      "pass": true
+    },
+    {
+      "function": "TEXTBEFORE",
+      "formula": "=TEXTBEFORE(A2,\"-\",2)",
+      "pass": true
+    },
+    {
+      "function": "TEXTBEFORE",
+      "formula": "=TEXTBEFORE(A2,\"END\",1,1)",
+      "pass": true
+    },
+    {
+      "function": "TEXTBEFORE",
+      "formula": "=TEXTBEFORE(A2,\"@\")",
+      "pass": true
+    },
+    {
+      "function": "TEXTBEFORE",
+      "formula": "=TEXTBEFORE(A2,\"@\",1,0,0,\"缺少@\")",
+      "pass": true
+    },
+    {
+      "function": "TEXTSPLIT",
+      "formula": "=TEXTSPLIT(A2,\",\")",
+      "pass": true
+    },
+    {
+      "function": "TEXTSPLIT",
+      "formula": "=TEXTSPLIT(A2,,\";\")",
+      "pass": true
+    },
+    {
+      "function": "TEXTSPLIT",
+      "formula": "=TEXTSPLIT(A2,\",\",\";\")",
+      "pass": true
+    },
+    {
+      "function": "TEXTSPLIT",
+      "formula": "=TEXTSPLIT(A2,\",\",,TRUE)",
+      "pass": true
+    },
+    {
+      "function": "TEXTSPLIT",
+      "formula": "=TEXTSPLIT(A2,\",\",\";\")",
+      "pass": true
+    },
+    {
+      "function": "TEXTSPLIT",
+      "formula": "=TEXTSPLIT(A2,\",\",\";\",FALSE,0,\"-\")",
+      "pass": true
+    },
+    {
+      "function": "WRAPCOLS",
+      "formula": "=WRAPCOLS(A2:A6,3)",
+      "pass": true
+    },
+    {
+      "function": "WRAPCOLS",
+      "formula": "=WRAPCOLS(A2:A6,2)",
+      "pass": true
+    },
+    {
+      "function": "WRAPCOLS",
+      "formula": "=WRAPCOLS(A2:A6,3,\"-\")",
+      "pass": true
+    },
+    {
+      "function": "WRAPCOLS",
+      "formula": "=WRAPCOLS(A2:E2,3,\"-\")",
+      "pass": true
+    },
+    {
+      "function": "WRAPCOLS",
+      "formula": "=WRAPCOLS(A2:B3,3)",
+      "pass": true
+    },
+    {
+      "function": "WRAPCOLS",
+      "formula": "=WRAPCOLS(A2:A6,3,\"-\")",
+      "pass": true
+    },
+    {
+      "function": "WRAPROWS",
+      "formula": "=WRAPROWS(A2:A6,3)",
+      "pass": true
+    },
+    {
+      "function": "WRAPROWS",
+      "formula": "=WRAPROWS(A2:A6,2)",
+      "pass": true
+    },
+    {
+      "function": "WRAPROWS",
+      "formula": "=WRAPROWS(A2:A6,3,\"-\")",
+      "pass": true
+    },
+    {
+      "function": "WRAPROWS",
+      "formula": "=WRAPROWS(A2:E2,3,\"-\")",
+      "pass": true
+    },
+    {
+      "function": "WRAPROWS",
+      "formula": "=WRAPROWS(A2:B3,3)",
+      "pass": true
+    },
+    {
+      "function": "WRAPROWS",
+      "formula": "=WRAPROWS(A2:A6,3,\"-\")",
+      "pass": true
+    },
+    {
+      "function": "TAKE",
+      "formula": "=TAKE(A2:C4,2)",
+      "pass": true
+    },
+    {
+      "function": "TAKE",
+      "formula": "=TAKE(A2:C4,-2)",
+      "pass": true
+    },
+    {
+      "function": "TAKE",
+      "formula": "=TAKE(A2:C4,,-1)",
+      "pass": true
+    },
+    {
+      "function": "TAKE",
+      "formula": "=TAKE(A2:C4,2,2)",
+      "pass": true
+    },
+    {
+      "function": "TAKE",
+      "formula": "=TAKE(A2:C4,0)",
+      "pass": true
+    },
+    {
+      "function": "TAKE",
+      "formula": "=TAKE(A2:C4,2)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSEROWS",
+      "formula": "=CHOOSEROWS(A2:C4,1,3)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSEROWS",
+      "formula": "=CHOOSEROWS(A2:C4,3,1)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSEROWS",
+      "formula": "=CHOOSEROWS(A2:C4,-1)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSEROWS",
+      "formula": "=CHOOSEROWS(A2:C4,1,1,3)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSEROWS",
+      "formula": "=CHOOSEROWS(A2:C4,4)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSEROWS",
+      "formula": "=CHOOSEROWS(A2:C4,1,3)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSECOLS",
+      "formula": "=CHOOSECOLS(A2:C4,1,3)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSECOLS",
+      "formula": "=CHOOSECOLS(A2:C4,3,1)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSECOLS",
+      "formula": "=CHOOSECOLS(A2:C4,-1)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSECOLS",
+      "formula": "=CHOOSECOLS(A2:C4,1,1,3)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSECOLS",
+      "formula": "=CHOOSECOLS(A2:C4,4)",
+      "pass": true
+    },
+    {
+      "function": "CHOOSECOLS",
+      "formula": "=CHOOSECOLS(A2:C4,1,3)",
+      "pass": true
+    },
+    {
+      "function": "EXPAND",
+      "formula": "=EXPAND(A2:B3,3,3,0)",
+      "pass": true
+    },
+    {
+      "function": "EXPAND",
+      "formula": "=EXPAND(A2:B3,4,,0)",
+      "pass": true
+    },
+    {
+      "function": "EXPAND",
+      "formula": "=EXPAND(A2:B3,,4,\"-\")",
+      "pass": true
+    },
+    {
+      "function": "EXPAND",
+      "formula": "=EXPAND(A2:B3,3,3)",
+      "pass": true
+    },
+    {
+      "function": "EXPAND",
+      "formula": "=EXPAND(A2:B3,1,2,0)",
+      "pass": true
+    },
+    {
+      "function": "EXPAND",
+      "formula": "=EXPAND(A2:B3,3,3,0)",
+      "pass": true
+    },
+    {
+      "function": "VSTACK",
+      "formula": "=VSTACK(A2:B3,D2:E3)",
+      "pass": true
+    },
+    {
+      "function": "VSTACK",
+      "formula": "=VSTACK(D2:E3,A2:B3)",
+      "pass": true
+    },
+    {
+      "function": "VSTACK",
+      "formula": "=VSTACK(A2:B3,D2:D3)",
+      "pass": true
+    },
+    {
+      "function": "VSTACK",
+      "formula": "=VSTACK(A2:B3)",
+      "pass": true
+    },
+    {
+      "function": "VSTACK",
+      "formula": "=VSTACK(A2:B3,D2:D3)",
+      "pass": true
+    },
+    {
+      "function": "VSTACK",
+      "formula": "=IFNA(VSTACK(A2:B3,D2:D3),\"-\")",
+      "pass": true
+    },
+    {
+      "function": "HSTACK",
+      "formula": "=HSTACK(A2:B3,D2:E3)",
+      "pass": true
+    },
+    {
+      "function": "HSTACK",
+      "formula": "=HSTACK(D2:E3,A2:B3)",
+      "pass": true
+    },
+    {
+      "function": "HSTACK",
+      "formula": "=HSTACK(A2:B3,D2:E2)",
+      "pass": true
+    },
+    {
+      "function": "HSTACK",
+      "formula": "=HSTACK(A2:B3)",
+      "pass": true
+    },
+    {
+      "function": "HSTACK",
+      "formula": "=HSTACK(A2:B3,D2:E2)",
+      "pass": true
+    },
+    {
+      "function": "HSTACK",
+      "formula": "=IFNA(HSTACK(A2:B3,D2:E2),\"-\")",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "SUMIF",
+  "duration": 202.46190599999997,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "SUMIF",
+      "duration": 19.48585
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 16.531248
+    },
+    {
+      "title": "加總北區的金額",
+      "duration": 20.525441999999998
+    },
+    {
+      "title": "改看南區金額",
+      "duration": 20.660634
+    },
+    {
+      "title": "同一範圍，判斷也加總",
+      "duration": 23.405124999999998
+    },
+    {
+      "title": "門檻由儲存格決定",
+      "duration": 19.095874000000002
+    },
+    {
+      "title": "把條件誤放成加總對象",
+      "duration": 20.075692
+    },
+    {
+      "title": "分清楚判斷欄與加總欄",
+      "duration": 18.805941
+    },
+    {
+      "title": "你來判斷",
+      "duration": 17.041225
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.834875
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "duration": 263.68512200000004,
+  "voice": "Microsoft Zhiwei - Chinese (Traditional, Taiwan), Male, rate=0",
+  "slides": [
+    {
+      "title": "XLOOKUP",
+      "duration": 17.225986
+    },
+    {
+      "title": "三個問題，一次查找",
+      "duration": 24.499455
+    },
+    {
+      "title": "讀懂公式的三個核心",
+      "duration": 25.028888
+    },
+    {
+      "title": "換一個代碼，結果就變",
+      "duration": 26.604036
+    },
+    {
+      "title": "找不到，也能好好說明",
+      "duration": 25.094103999999998
+    },
+    {
+      "title": "向左查找，也很直接",
+      "duration": 24.069206
+    },
+    {
+      "title": "預設就是完全相符",
+      "duration": 27.623265
+    },
+    {
+      "title": "重複代碼，先找哪一筆？",
+      "duration": 27.433379000000002
+    },
+    {
+      "title": "你來判斷",
+      "duration": 28.679772999999997
+    },
+    {
+      "title": "記住這條查找路線",
+      "duration": 37.42703
+    }
+  ]
+}

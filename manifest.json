@@ -1,0 +1,353 @@
+[
+  {
+    "name": "XLOOKUP",
+    "tag": "用查找值，取回對應資料",
+    "duration": 263.68512200000004,
+    "slides": 10,
+    "version": "2021",
+    "url": "XLOOKUP/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/xlookup-function"
+  },
+  {
+    "name": "UNIQUE",
+    "tag": "從重複資料，整理出不同項目",
+    "duration": 303.56321899999995,
+    "slides": 10,
+    "version": "2021",
+    "url": "UNIQUE/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/unique-function"
+  },
+  {
+    "name": "SORT",
+    "tag": "依指定欄位，重排整張資料",
+    "duration": 185.85501200000004,
+    "slides": 10,
+    "version": "2021",
+    "url": "SORT/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/sort-function"
+  },
+  {
+    "name": "FILTER",
+    "tag": "把符合條件的整列留下來",
+    "duration": 185.4823570000001,
+    "slides": 10,
+    "version": "2021",
+    "url": "FILTER/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/filter-function"
+  },
+  {
+    "name": "XMATCH",
+    "tag": "找到的是位置，不是儲存格的值",
+    "duration": 185.76798400000007,
+    "slides": 10,
+    "version": "2021",
+    "url": "XMATCH/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/xmatch-function"
+  },
+  {
+    "name": "SORTBY",
+    "tag": "用另一個範圍，決定清單順序",
+    "duration": 189.07941099999994,
+    "slides": 10,
+    "version": "2021",
+    "url": "SORTBY/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/sortby-function"
+  },
+  {
+    "name": "LET",
+    "tag": "替中間計算命名，讓公式更好讀",
+    "duration": 177.02567,
+    "slides": 10,
+    "version": "2021",
+    "url": "LET/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/let-function"
+  },
+  {
+    "name": "RANDARRAY",
+    "tag": "一次產生一整塊隨機數字",
+    "duration": 194.74739300000002,
+    "slides": 10,
+    "version": "2021",
+    "url": "RANDARRAY/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/randarray-function"
+  },
+  {
+    "name": "TEXTAFTER",
+    "tag": "用分隔符號，取出後面的文字",
+    "duration": 202.86136000000002,
+    "slides": 10,
+    "version": "2024",
+    "url": "TEXTAFTER/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/textafter-function"
+  },
+  {
+    "name": "TEXTBEFORE",
+    "tag": "用分隔符號，取出前面的文字",
+    "duration": 202.38643900000002,
+    "slides": 10,
+    "version": "2024",
+    "url": "TEXTBEFORE/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/textbefore-function"
+  },
+  {
+    "name": "TEXTSPLIT",
+    "tag": "把一段文字，拆成多欄或多列",
+    "duration": 189.22848100000013,
+    "slides": 10,
+    "version": "2024",
+    "url": "TEXTSPLIT/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/textsplit-function"
+  },
+  {
+    "name": "WRAPCOLS",
+    "tag": "每欄放固定個數，再換下一欄",
+    "duration": 178.856052,
+    "slides": 10,
+    "version": "2024",
+    "url": "WRAPCOLS/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/wrapcols-function"
+  },
+  {
+    "name": "WRAPROWS",
+    "tag": "每列放固定個數，再換下一列",
+    "duration": 178.03292399999995,
+    "slides": 10,
+    "version": "2024",
+    "url": "WRAPROWS/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/wraprows-function"
+  },
+  {
+    "name": "TAKE",
+    "tag": "從頭或從尾，擷取連續的列與欄",
+    "duration": 188.50448999999983,
+    "slides": 10,
+    "version": "2024",
+    "url": "TAKE/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/take-function"
+  },
+  {
+    "name": "CHOOSEROWS",
+    "tag": "指定列序號，挑選、重排與重複",
+    "duration": 182.33863900000003,
+    "slides": 10,
+    "version": "2024",
+    "url": "CHOOSEROWS/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/chooserows-function"
+  },
+  {
+    "name": "CHOOSECOLS",
+    "tag": "指定欄序號，挑選、重排與重複",
+    "duration": 183.37369800000005,
+    "slides": 10,
+    "version": "2024",
+    "url": "CHOOSECOLS/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/choosecols-function"
+  },
+  {
+    "name": "EXPAND",
+    "tag": "擴大結果尺寸，缺少位置指定補值",
+    "duration": 180.29777699999994,
+    "slides": 10,
+    "version": "2024",
+    "url": "EXPAND/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/expand-function"
+  },
+  {
+    "name": "VSTACK",
+    "tag": "按順序，把多份資料上下接起來",
+    "duration": 196.751746,
+    "slides": 10,
+    "version": "2024",
+    "url": "VSTACK/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/vstack-function"
+  },
+  {
+    "name": "HSTACK",
+    "tag": "按順序，把多份資料左右接起來",
+    "duration": 195.79519200000001,
+    "slides": 10,
+    "version": "2024",
+    "url": "HSTACK/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/hstack-function"
+  },
+  {
+    "name": "VLOOKUP",
+    "tag": "從最左欄找值，取回右側資料",
+    "duration": 212.6188229999999,
+    "slides": 10,
+    "version": "legacy",
+    "url": "VLOOKUP/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/vlookup-function"
+  },
+  {
+    "name": "SUMPRODUCT",
+    "tag": "逐項相乘，再把結果加總",
+    "duration": 197.85373999999996,
+    "slides": 10,
+    "version": "legacy",
+    "url": "SUMPRODUCT/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/sumproduct-function"
+  },
+  {
+    "name": "COUNTIF",
+    "tag": "符合一個條件的資料有幾筆",
+    "duration": 193.792699,
+    "slides": 10,
+    "version": "legacy",
+    "url": "COUNTIF/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/countif-function"
+  },
+  {
+    "name": "SUMIF",
+    "tag": "先判斷條件，再加總對應金額",
+    "duration": 202.46190599999997,
+    "slides": 10,
+    "version": "legacy",
+    "url": "SUMIF/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/sumif-function"
+  },
+  {
+    "name": "COUNTA",
+    "tag": "計算有內容的儲存格數量",
+    "duration": 199.44925100000006,
+    "slides": 10,
+    "version": "legacy",
+    "url": "COUNTA/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/counta-function"
+  },
+  {
+    "name": "INDEX",
+    "tag": "給定列與欄，取出交會位置的內容",
+    "duration": 194.052291,
+    "slides": 10,
+    "version": "legacy",
+    "url": "INDEX/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/index-function"
+  },
+  {
+    "name": "MATCH",
+    "tag": "搜尋資料，回傳相對位置",
+    "duration": 206.15927199999996,
+    "slides": 10,
+    "version": "legacy",
+    "url": "MATCH/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/match-function"
+  },
+  {
+    "name": "CONCATENATE",
+    "tag": "把文字依順序串接在一起",
+    "duration": 195.593922,
+    "slides": 10,
+    "version": "legacy",
+    "url": "CONCATENATE/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/concatenate-function"
+  },
+  {
+    "name": "NETWORKDAYS",
+    "tag": "計算排除週末與指定假日的工作天",
+    "duration": 198.39659799999995,
+    "slides": 10,
+    "version": "legacy",
+    "url": "NETWORKDAYS/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/networkdays-function"
+  },
+  {
+    "name": "SUBSTITUTE",
+    "tag": "依指定文字，替換全部或某次出現",
+    "duration": 200.29777700000005,
+    "slides": 10,
+    "version": "legacy",
+    "url": "SUBSTITUTE/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/substitute-function"
+  },
+  {
+    "name": "SWITCH",
+    "tag": "依同一個值，選擇對應結果",
+    "duration": 195.09827499999997,
+    "slides": 10,
+    "version": "2019",
+    "url": "SWITCH/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/switch-function"
+  },
+  {
+    "name": "HLOOKUP",
+    "tag": "從最上列找值，取回下方資料",
+    "duration": 193.0208620000001,
+    "slides": 10,
+    "version": "legacy",
+    "url": "HLOOKUP/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/hlookup-function"
+  },
+  {
+    "name": "OFFSET",
+    "tag": "從基準位置，偏移出一個參照範圍",
+    "duration": 204.73161000000007,
+    "slides": 10,
+    "version": "legacy",
+    "url": "OFFSET/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/offset-function"
+  },
+  {
+    "name": "DATEDIF",
+    "tag": "計算兩個日期之間完整的年、月或天",
+    "duration": 205.84299300000006,
+    "slides": 10,
+    "version": "legacy",
+    "url": "DATEDIF/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/datedif-function"
+  },
+  {
+    "name": "WEEKDAY",
+    "tag": "把日期換成可判斷的星期編號",
+    "duration": 195.5955099999999,
+    "slides": 10,
+    "version": "legacy",
+    "url": "WEEKDAY/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/weekday-function"
+  },
+  {
+    "name": "TRIM",
+    "tag": "清除前後空格，讓中間空格變整齊",
+    "duration": 201.04535200000007,
+    "slides": 10,
+    "version": "legacy",
+    "url": "TRIM/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/trim-function"
+  },
+  {
+    "name": "LEFT",
+    "tag": "從文字左側，取出指定字元數",
+    "duration": 194.66045499999998,
+    "slides": 10,
+    "version": "legacy",
+    "url": "LEFT/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/left-function"
+  },
+  {
+    "name": "RIGHT",
+    "tag": "從文字右側，取出指定字元數",
+    "duration": 194.94172200000003,
+    "slides": 10,
+    "version": "legacy",
+    "url": "RIGHT/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/right-function"
+  },
+  {
+    "name": "MID",
+    "tag": "指定起點，取出中間一段文字",
+    "duration": 191.82471700000002,
+    "slides": 10,
+    "version": "legacy",
+    "url": "MID/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/mid-function"
+  },
+  {
+    "name": "LEN",
+    "tag": "計算文字長度，空格與標點也算",
+    "duration": 193.35033999999993,
+    "slides": 10,
+    "version": "legacy",
+    "url": "LEN/index.html",
+    "source": "https://support.microsoft.com/en-us/excel/functions/len-function"
+  }
+]

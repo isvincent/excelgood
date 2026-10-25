@@ -1,0 +1,47 @@
+{
+  "name": "COUNTA",
+  "duration": 199.44925100000006,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "COUNTA",
+      "duration": 18.790748
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 18.276508
+    },
+    {
+      "title": "文字、零、公式與錯誤都計入",
+      "duration": 24.424988
+    },
+    {
+      "title": "只檢查前 3 個儲存格",
+      "duration": 19.180951999999998
+    },
+    {
+      "title": "可以加入第二個範圍",
+      "duration": 17.226123
+    },
+    {
+      "title": "看似空白，不一定沒有內容",
+      "duration": 18.762721
+    },
+    {
+      "title": "只含空字串公式也會計數",
+      "duration": 19.077370000000002
+    },
+    {
+      "title": "真正空白，才回傳零",
+      "duration": 20.311926999999997
+    },
+    {
+      "title": "你來判斷",
+      "duration": 17.427937
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.969977
+    }
+  ]
+}

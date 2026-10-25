@@ -1,0 +1,47 @@
+{
+  "name": "LEN",
+  "duration": 193.35033999999993,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "LEN",
+      "duration": 19.335918
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 18.295828
+    },
+    {
+      "title": "中英文字都要計數",
+      "duration": 17.89102
+    },
+    {
+      "title": "一般空格也算一個",
+      "duration": 17.256236
+    },
+    {
+      "title": "空字串的長度為零",
+      "duration": 17.366122
+    },
+    {
+      "title": "用長度變化觀察清理結果",
+      "duration": 17.581497
+    },
+    {
+      "title": "多出來的空格，讓長度增加",
+      "duration": 18.805714000000002
+    },
+    {
+      "title": "先確認來源，再計算長度",
+      "duration": 26.139592
+    },
+    {
+      "title": "你來判斷",
+      "duration": 14.273424
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.404989
+    }
+  ]
+}

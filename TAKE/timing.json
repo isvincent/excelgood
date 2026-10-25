@@ -1,0 +1,47 @@
+{
+  "name": "TAKE",
+  "duration": 188.50448999999983,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "TAKE",
+      "duration": 19.385714
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 22.385034
+    },
+    {
+      "title": "從上面取 2 列",
+      "duration": 15.597233
+    },
+    {
+      "title": "從下面取 2 列",
+      "duration": 20.225624
+    },
+    {
+      "title": "只取最右邊 1 欄",
+      "duration": 16.491021
+    },
+    {
+      "title": "同時取左上角 2×2",
+      "duration": 14.941225
+    },
+    {
+      "title": "取 0 列，不是空白清單",
+      "duration": 16.126213
+    },
+    {
+      "title": "改成有效列數，或省略該方向",
+      "duration": 18.480998
+    },
+    {
+      "title": "你來判斷",
+      "duration": 17.191338000000002
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 27.68009
+    }
+  ]
+}

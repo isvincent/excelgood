@@ -1,0 +1,47 @@
+{
+  "name": "CHOOSECOLS",
+  "duration": 183.37369800000005,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "CHOOSECOLS",
+      "duration": 19.972381
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 22.801631999999998
+    },
+    {
+      "title": "挑出第 1 與第 3 欄",
+      "duration": 16.811248
+    },
+    {
+      "title": "交換順序：先第 3，再第 1 欄",
+      "duration": 15.221497
+    },
+    {
+      "title": "負一，從最後一欄選取",
+      "duration": 15.536463
+    },
+    {
+      "title": "同一欄可以重複選取",
+      "duration": 19.041088
+    },
+    {
+      "title": "序號超出來源欄數",
+      "duration": 14.071655
+    },
+    {
+      "title": "回到有效的第 1 與第 3 欄",
+      "duration": 14.131837
+    },
+    {
+      "title": "你來判斷",
+      "duration": 17.521044
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 28.264853000000002
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "SORT",
+  "duration": 185.85501200000004,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "SORT",
+      "duration": 18.970793
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 23.5161
+    },
+    {
+      "title": "數字由小排到大",
+      "duration": 19.920998
+    },
+    {
+      "title": "同一份數字，改成降冪",
+      "duration": 18.710929999999998
+    },
+    {
+      "title": "依分數，移動整列",
+      "duration": 16.660907
+    },
+    {
+      "title": "資料橫排，改成排欄",
+      "duration": 16.606258
+    },
+    {
+      "title": "欄位序號超出範圍",
+      "duration": 16.130885
+    },
+    {
+      "title": "改回有效欄位序號",
+      "duration": 13.416644
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.151111
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.770386000000002
+    }
+  ]
+}

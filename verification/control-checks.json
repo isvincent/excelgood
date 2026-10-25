@@ -1,0 +1,87 @@
+[
+  {
+    "function": "SORT",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "FILTER",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "XMATCH",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "SORTBY",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "LET",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "RANDARRAY",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "TEXTAFTER",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "TEXTBEFORE",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "TEXTSPLIT",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "WRAPCOLS",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "WRAPROWS",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "TAKE",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "CHOOSEROWS",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "CHOOSECOLS",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "EXPAND",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "VSTACK",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  },
+  {
+    "function": "HSTACK",
+    "seek_to_end": true,
+    "fullscreen_portrait_ratio": true
+  }
+]

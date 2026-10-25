@@ -1,0 +1,47 @@
+{
+  "name": "NETWORKDAYS",
+  "duration": 198.39659799999995,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "NETWORKDAYS",
+      "duration": 20.25551
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 16.651429
+    },
+    {
+      "title": "週一到週日，有幾個工作天",
+      "duration": 19.045533
+    },
+    {
+      "title": "再排除週三的指定假日",
+      "duration": 19.245623000000002
+    },
+    {
+      "title": "同一天若是平日，算一天",
+      "duration": 17.625985999999997
+    },
+    {
+      "title": "週末假日，不會再扣一次",
+      "duration": 18.475873
+    },
+    {
+      "title": "把結果誤認為一般相隔日數",
+      "duration": 21.630431
+    },
+    {
+      "title": "確認有效日期與假日清單",
+      "duration": 22.500180999999998
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.556145
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.409886999999998
+    }
+  ]
+}

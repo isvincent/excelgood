@@ -1,0 +1,47 @@
+{
+  "name": "MATCH",
+  "duration": 206.15927199999996,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "MATCH",
+      "duration": 18.736054
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 19.665759
+    },
+    {
+      "title": "找 P02 的位置",
+      "duration": 18.506168
+    },
+    {
+      "title": "換找 P03",
+      "duration": 20.870658
+    },
+    {
+      "title": "升冪門檻，找不大於查找值的位置",
+      "duration": 21.930295
+    },
+    {
+      "title": "降冪門檻，使用負一",
+      "duration": 22.352108
+    },
+    {
+      "title": "不存在的代碼，完全比對找不到",
+      "duration": 20.380679999999998
+    },
+    {
+      "title": "代碼查找，明確填 0",
+      "duration": 21.231292
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.361315
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.124943000000002
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "WEEKDAY",
+  "duration": 195.5955099999999,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "WEEKDAY",
+      "duration": 19.397687
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 20.240454
+    },
+    {
+      "title": "預設以週日為第 1 天",
+      "duration": 19.285261
+    },
+    {
+      "title": "改成週一為第 1 天",
+      "duration": 19.362313
+    },
+    {
+      "title": "週日也會隨編碼改變",
+      "duration": 18.041133
+    },
+    {
+      "title": "判斷是否週末",
+      "duration": 20.270521000000002
+    },
+    {
+      "title": "不支援的星期編碼",
+      "duration": 19.96576
+    },
+    {
+      "title": "使用明確且有效的回傳模式",
+      "duration": 17.480862000000002
+    },
+    {
+      "title": "你來判斷",
+      "duration": 14.971654999999998
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.579864
+    }
+  ]
+}

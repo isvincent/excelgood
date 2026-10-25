@@ -1,0 +1,47 @@
+{
+  "name": "XMATCH",
+  "duration": 185.76798400000007,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "XMATCH",
+      "duration": 19.476053999999998
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 21.379728
+    },
+    {
+      "title": "第一次找到 P03",
+      "duration": 14.866214
+    },
+    {
+      "title": "反向找，取得最後符合位置",
+      "duration": 18.760726000000002
+    },
+    {
+      "title": "找不到完全相符，取較小項目",
+      "duration": 18.447574
+    },
+    {
+      "title": "搭配 INDEX，才取回內容",
+      "duration": 17.201134
+    },
+    {
+      "title": "完全相符卻找不到",
+      "duration": 15.129161
+    },
+    {
+      "title": "針對找不到，加入 IFNA",
+      "duration": 17.920681000000002
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.351474
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.235238000000003
+    }
+  ]
+}

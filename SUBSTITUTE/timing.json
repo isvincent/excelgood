@@ -1,0 +1,47 @@
+{
+  "name": "SUBSTITUTE",
+  "duration": 200.29777700000005,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "SUBSTITUTE",
+      "duration": 20.195646
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 19.94059
+    },
+    {
+      "title": "把所有 A 改成 B",
+      "duration": 17.666077
+    },
+    {
+      "title": "只替換第 2 次出現",
+      "duration": 19.735691
+    },
+    {
+      "title": "以空字串，移除指定符號",
+      "duration": 18.870748
+    },
+    {
+      "title": "替換整段文字，不是固定位置",
+      "duration": 21.07025
+    },
+    {
+      "title": "大小寫不同，不會符合",
+      "duration": 18.620770999999998
+    },
+    {
+      "title": "確認舊文字的大小寫",
+      "duration": 21.840544
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.711111000000002
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.646349
+    }
+  ]
+}

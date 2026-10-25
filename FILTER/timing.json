@@ -1,0 +1,47 @@
+{
+  "name": "FILTER",
+  "duration": 185.4823570000001,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "FILTER",
+      "duration": 18.920771000000002
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 23.64966
+    },
+    {
+      "title": "只保留北區",
+      "duration": 17.340952
+    },
+    {
+      "title": "換成分數至少 90",
+      "duration": 17.476689
+    },
+    {
+      "title": "兩個條件都成立：乘號",
+      "duration": 15.251971999999999
+    },
+    {
+      "title": "至少一個條件成立：加號",
+      "duration": 15.145941
+    },
+    {
+      "title": "沒有資料符合，沒有備援",
+      "duration": 17.015873
+    },
+    {
+      "title": "加上清楚的空結果提示",
+      "duration": 15.532516999999999
+    },
+    {
+      "title": "你來判斷",
+      "duration": 19.125759000000002
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.022223
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "method": "Independent limited Python model, not native Excel",
+  "examples": [
+    {
+      "function": "VLOOKUP",
+      "formula": "=VLOOKUP(\"P02\",A2:C4,3,FALSE)",
+      "pass": true
+    },
+    {
+      "function": "VLOOKUP",
+      "formula": "=VLOOKUP(\"P02\",A2:C4,2,FALSE)",
+      "pass": true
+    },
+    {
+      "function": "VLOOKUP",
+      "formula": "=VLOOKUP(75,A2:B5,2,TRUE)",
+      "pass": true
+    },
+    {
+      "function": "VLOOKUP",
+      "formula": "=IFNA(VLOOKUP(\"P99\",A2:C4,3,FALSE),\"查無\")",
+      "pass": true
+    },
+    {
+      "function": "VLOOKUP",
+      "formula": "=VLOOKUP(\"P02\",A2:C4,4,FALSE)",
+      "pass": true
+    },
+    {
+      "function": "VLOOKUP",
+      "formula": "=VLOOKUP(\"P02\",A2:C4,3,FALSE)",
+      "pass": true
+    },
+    {
+      "function": "SUMPRODUCT",
+      "formula": "=SUMPRODUCT(A2:A4,B2:B4)",
+      "pass": true
+    },
+    {
+      "function": "SUMPRODUCT",
+      "formula": "=SUMPRODUCT(A2:A4,A2:A4)",
+      "pass": true
+    },
+    {
+      "function": "SUMPRODUCT",
+      "formula": "=SUMPRODUCT((A2:A4>=80)*A2:A4*B2:B4)",
+      "pass": true
+    },
+    {
+      "function": "SUMPRODUCT",
+      "formula": "=SUMPRODUCT(A2:A4,B2:B4)/SUM(B2:B4)",
+      "pass": true
+    },
+    {
+      "function": "SUMPRODUCT",
+      "formula": "=SUMPRODUCT(A2:A4,B2:B3)",
+      "pass": true
+    },
+    {
+      "function": "SUMPRODUCT",
+      "formula": "=SUMPRODUCT(A2:A4,B2:B4)",
+      "pass": true
+    },
+    {
+      "function": "COUNTIF",
+      "formula": "=COUNTIF(A2:A6,80)",
+      "pass": true
+    },
+    {
+      "function": "COUNTIF",
+      "formula": "=COUNTIF(A2:A6,\">=80\")",
+      "pass": true
+    },
+    {
+      "function": "COUNTIF",
+      "formula": "=COUNTIF(A2:A6,\">=\"&B2)",
+      "pass": true
+    },
+    {
+      "function": "COUNTIF",
+      "formula": "=COUNTIF(A2:A5,\"北*\")",
+      "pass": true
+    },
+    {
+      "function": "COUNTIF",
+      "formula": "=COUNTIF(A2:A6,\"大於80\")",
+      "pass": true
+    },
+    {
+      "function": "COUNTIF",
+      "formula": "=COUNTIF(A2:A6,\">80\")",
+      "pass": true
+    },
+    {
+      "function": "SUMIF",
+      "formula": "=SUMIF(A2:A5,\"北\",B2:B5)",
+      "pass": true
+    },
+    {
+      "function": "SUMIF",
+      "formula": "=SUMIF(A2:A5,\"南\",B2:B5)",
+      "pass": true
+    },
+    {
+      "function": "SUMIF",
+      "formula": "=SUMIF(B2:B5,\">=150\")",
+      "pass": true
+    },
+    {
+      "function": "SUMIF",
+      "formula": "=SUMIF(B2:B5,\">\"&D2,B2:B5)",
+      "pass": true
+    },
+    {
+      "function": "SUMIF",
+      "formula": "=SUMIF(A2:A5,\"北\")",
+      "pass": true
+    },
+    {
+      "function": "SUMIF",
+      "formula": "=SUMIF(A2:A5,\"北\",B2:B5)",
+      "pass": true
+    },
+    {
+      "function": "COUNTA",
+      "formula": "=COUNTA(A2:A6)",
+      "pass": true
+    },
+    {
+      "function": "COUNTA",
+      "formula": "=COUNTA(A2:A4)",
+      "pass": true
+    },
+    {
+      "function": "COUNTA",
+      "formula": "=COUNTA(A2:A4,C2:C3)",
+      "pass": true
+    },
+    {
+      "function": "COUNTA",
+      "formula": "=COUNTA(A5)",
+      "pass": true
+    },
+    {
+      "function": "COUNTA",
+      "formula": "=COUNTA(A5)",
+      "pass": true
+    },
+    {
+      "function": "COUNTA",
+      "formula": "=COUNTA(A4)",
+      "pass": true
+    },
+    {
+      "function": "INDEX",
+      "formula": "=INDEX(A2:C4,2,3)",
+      "pass": true
+    },
+    {
+      "function": "INDEX",
+      "formula": "=INDEX(A2:C4,3,1)",
+      "pass": true
+    },
+    {
+      "function": "INDEX",
+      "formula": "=INDEX(A2:A4,2)",
+      "pass": true
+    },
+    {
+      "function": "INDEX",
+      "formula": "=INDEX(C2:C4,MATCH(\"P02\",A2:A4,0))",
+      "pass": true
+    },
+    {
+      "function": "INDEX",
+      "formula": "=INDEX(A2:C4,4,1)",
+      "pass": true
+    },
+    {
+      "function": "INDEX",
+      "formula": "=INDEX(A2:C4,3,1)",
+      "pass": true
+    },
+    {
+      "function": "MATCH",
+      "formula": "=MATCH(\"P02\",A2:A4,0)",
+      "pass": true
+    },
+    {
+      "function": "MATCH",
+      "formula": "=MATCH(\"P03\",A2:A4,0)",
+      "pass": true
+    },
+    {
+      "function": "MATCH",
+      "formula": "=MATCH(75,A2:A5,1)",
+      "pass": true
+    },
+    {
+      "function": "MATCH",
+      "formula": "=MATCH(75,A2:A5,-1)",
+      "pass": true
+    },
+    {
+      "function": "MATCH",
+      "formula": "=MATCH(\"P99\",A2:A4,0)",
+      "pass": true
+    },
+    {
+      "function": "MATCH",
+      "formula": "=MATCH(\"P02\",A2:A4,0)",
+      "pass": true
+    },
+    {
+      "function": "CONCATENATE",
+      "formula": "=CONCATENATE(A2,B2)",
+      "pass": true
+    },
+    {
+      "function": "CONCATENATE",
+      "formula": "=CONCATENATE(A2,\"・\",B2)",
+      "pass": true
+    },
+    {
+      "function": "CONCATENATE",
+      "formula": "=CONCATENATE(\"姓名：\",A2,B2)",
+      "pass": true
+    },
+    {
+      "function": "CONCATENATE",
+      "formula": "=CONCATENATE(\"日期：\",TEXT(A2,\"yyyy-mm-dd\"))",
+      "pass": true
+    },
+    {
+      "function": "CONCATENATE",
+      "formula": "=CONCATENATE(A2,B2)",
+      "pass": true
+    },
+    {
+      "function": "CONCATENATE",
+      "formula": "=CONCATENATE(A2,\" \",B2)",
+      "pass": true
+    },
+    {
+      "function": "NETWORKDAYS",
+      "formula": "=NETWORKDAYS(A2,B2)",
+      "pass": true
+    },
+    {
+      "function": "NETWORKDAYS",
+      "formula": "=NETWORKDAYS(A2,B2,D2)",
+      "pass": true
+    },
+    {
+      "function": "NETWORKDAYS",
+      "formula": "=NETWORKDAYS(A2,A2)",
+      "pass": true
+    },
+    {
+      "function": "NETWORKDAYS",
+      "formula": "=NETWORKDAYS(A2,B2,D2)",
+      "pass": true
+    },
+    {
+      "function": "NETWORKDAYS",
+      "formula": "=NETWORKDAYS(A2,B2)",
+      "pass": true
+    },
+    {
+      "function": "NETWORKDAYS",
+      "formula": "=NETWORKDAYS(A2,B2,D2)",
+      "pass": true
+    },
+    {
+      "function": "SUBSTITUTE",
+      "formula": "=SUBSTITUTE(A2,\"A\",\"B\")",
+      "pass": true
+    },
+    {
+      "function": "SUBSTITUTE",
+      "formula": "=SUBSTITUTE(A2,\"A\",\"B\",2)",
+      "pass": true
+    },
+    {
+      "function": "SUBSTITUTE",
+      "formula": "=SUBSTITUTE(A2,\"-\",\"\")",
+      "pass": true
+    },
+    {
+      "function": "SUBSTITUTE",
+      "formula": "=SUBSTITUTE(A2,\"北區\",\"南區\")",
+      "pass": true
+    },
+    {
+      "function": "SUBSTITUTE",
+      "formula": "=SUBSTITUTE(A2,\"a\",\"B\")",
+      "pass": true
+    },
+    {
+      "function": "SUBSTITUTE",
+      "formula": "=SUBSTITUTE(A2,\"A\",\"B\")",
+      "pass": true
+    },
+    {
+      "function": "SWITCH",
+      "formula": "=SWITCH(A2,1,\"待辦\",2,\"完成\",\"未知\")",
+      "pass": true
+    },
+    {
+      "function": "SWITCH",
+      "formula": "=SWITCH(A2,1,\"待辦\",2,\"完成\",\"未知\")",
+      "pass": true
+    },
+    {
+      "function": "SWITCH",
+      "formula": "=SWITCH(A2,1,\"待辦\",2,\"完成\",\"未知\")",
+      "pass": true
+    },
+    {
+      "function": "SWITCH",
+      "formula": "=SWITCH(A2,\"A\",\"甲組\",\"B\",\"乙組\",\"其他\")",
+      "pass": true
+    },
+    {
+      "function": "SWITCH",
+      "formula": "=SWITCH(A2,1,\"待辦\",2,\"完成\")",
+      "pass": true
+    },
+    {
+      "function": "SWITCH",
+      "formula": "=SWITCH(A2,1,\"待辦\",2,\"完成\",\"未知\")",
+      "pass": true
+    },
+    {
+      "function": "HLOOKUP",
+      "formula": "=HLOOKUP(\"P02\",A1:C3,3,FALSE)",
+      "pass": true
+    },
+    {
+      "function": "HLOOKUP",
+      "formula": "=HLOOKUP(\"P02\",A1:C3,2,FALSE)",
+      "pass": true
+    },
+    {
+      "function": "HLOOKUP",
+      "formula": "=HLOOKUP(75,A1:D2,2,TRUE)",
+      "pass": true
+    },
+    {
+      "function": "HLOOKUP",
+      "formula": "=IFNA(HLOOKUP(\"P99\",A1:C3,3,FALSE),\"查無\")",
+      "pass": true
+    },
+    {
+      "function": "HLOOKUP",
+      "formula": "=HLOOKUP(\"P02\",A1:C3,4,FALSE)",
+      "pass": true
+    },
+    {
+      "function": "HLOOKUP",
+      "formula": "=HLOOKUP(\"P02\",A1:C3,3,FALSE)",
+      "pass": true
+    },
+    {
+      "function": "OFFSET",
+      "formula": "=OFFSET(A2,1,2)",
+      "pass": true
+    },
+    {
+      "function": "OFFSET",
+      "formula": "=OFFSET(A2,0,1)",
+      "pass": true
+    },
+    {
+      "function": "OFFSET",
+      "formula": "=SUM(OFFSET(A2,1,0,2,2))",
+      "pass": true
+    },
+    {
+      "function": "OFFSET",
+      "formula": "=OFFSET(B3,-1,-1)",
+      "pass": true
+    },
+    {
+      "function": "OFFSET",
+      "formula": "=OFFSET(A1,-1,0)",
+      "pass": true
+    },
+    {
+      "function": "OFFSET",
+      "formula": "=SUM(OFFSET(A2,1,0,2,2))",
+      "pass": true
+    },
+    {
+      "function": "DATEDIF",
+      "formula": "=DATEDIF(A2,B2,\"Y\")",
+      "pass": true
+    },
+    {
+      "function": "DATEDIF",
+      "formula": "=DATEDIF(A2,B2,\"Y\")",
+      "pass": true
+    },
+    {
+      "function": "DATEDIF",
+      "formula": "=DATEDIF(A2,B2,\"M\")",
+      "pass": true
+    },
+    {
+      "function": "DATEDIF",
+      "formula": "=DATEDIF(A2,B2,\"D\")",
+      "pass": true
+    },
+    {
+      "function": "DATEDIF",
+      "formula": "=DATEDIF(A2,B2,\"Y\")",
+      "pass": true
+    },
+    {
+      "function": "DATEDIF",
+      "formula": "=DATEDIF(A2,B2,\"Y\")",
+      "pass": true
+    },
+    {
+      "function": "WEEKDAY",
+      "formula": "=WEEKDAY(A2)",
+      "pass": true
+    },
+    {
+      "function": "WEEKDAY",
+      "formula": "=WEEKDAY(A2,2)",
+      "pass": true
+    },
+    {
+      "function": "WEEKDAY",
+      "formula": "=WEEKDAY(A2,2)",
+      "pass": true
+    },
+    {
+      "function": "WEEKDAY",
+      "formula": "=WEEKDAY(A2,2)>5",
+      "pass": true
+    },
+    {
+      "function": "WEEKDAY",
+      "formula": "=WEEKDAY(A2,4)",
+      "pass": true
+    },
+    {
+      "function": "WEEKDAY",
+      "formula": "=WEEKDAY(A2,2)",
+      "pass": true
+    },
+    {
+      "function": "TRIM",
+      "formula": "=TRIM(A2)",
+      "pass": true
+    },
+    {
+      "function": "TRIM",
+      "formula": "=TRIM(A2)",
+      "pass": true
+    },
+    {
+      "function": "TRIM",
+      "formula": "=TRIM(A2)",
+      "pass": true
+    },
+    {
+      "function": "TRIM",
+      "formula": "=TRIM(A2)&\"／\"&TRIM(B2)",
+      "pass": true
+    },
+    {
+      "function": "TRIM",
+      "formula": "=LEN(TRIM(A2))",
+      "pass": true
+    },
+    {
+      "function": "TRIM",
+      "formula": "=TRIM(SUBSTITUTE(A2,CHAR(160),\" \"))",
+      "pass": true
+    },
+    {
+      "function": "LEFT",
+      "formula": "=LEFT(A2,2)",
+      "pass": true
+    },
+    {
+      "function": "LEFT",
+      "formula": "=LEFT(A2)",
+      "pass": true
+    },
+    {
+      "function": "LEFT",
+      "formula": "=LEFT(A2,20)",
+      "pass": true
+    },
+    {
+      "function": "LEFT",
+      "formula": "=LEFT(A2,2)",
+      "pass": true
+    },
+    {
+      "function": "LEFT",
+      "formula": "=LEFT(A2,-1)",
+      "pass": true
+    },
+    {
+      "function": "LEFT",
+      "formula": "=LEFT(A2,0)",
+      "pass": true
+    },
+    {
+      "function": "RIGHT",
+      "formula": "=RIGHT(A2,2)",
+      "pass": true
+    },
+    {
+      "function": "RIGHT",
+      "formula": "=RIGHT(A2)",
+      "pass": true
+    },
+    {
+      "function": "RIGHT",
+      "formula": "=RIGHT(A2,20)",
+      "pass": true
+    },
+    {
+      "function": "RIGHT",
+      "formula": "=RIGHT(A2,2)",
+      "pass": true
+    },
+    {
+      "function": "RIGHT",
+      "formula": "=RIGHT(A2,-1)",
+      "pass": true
+    },
+    {
+      "function": "RIGHT",
+      "formula": "=RIGHT(A2,0)",
+      "pass": true
+    },
+    {
+      "function": "MID",
+      "formula": "=MID(A2,4,3)",
+      "pass": true
+    },
+    {
+      "function": "MID",
+      "formula": "=MID(A2,1,2)",
+      "pass": true
+    },
+    {
+      "function": "MID",
+      "formula": "=MID(A2,20,3)",
+      "pass": true
+    },
+    {
+      "function": "MID",
+      "formula": "=MID(A2,7,20)",
+      "pass": true
+    },
+    {
+      "function": "MID",
+      "formula": "=MID(A2,0,3)",
+      "pass": true
+    },
+    {
+      "function": "MID",
+      "formula": "=MID(A2,4,3)",
+      "pass": true
+    },
+    {
+      "function": "LEN",
+      "formula": "=LEN(A2)",
+      "pass": true
+    },
+    {
+      "function": "LEN",
+      "formula": "=LEN(A2)",
+      "pass": true
+    },
+    {
+      "function": "LEN",
+      "formula": "=LEN(\"\")",
+      "pass": true
+    },
+    {
+      "function": "LEN",
+      "formula": "=LEN(TRIM(A2))",
+      "pass": true
+    },
+    {
+      "function": "LEN",
+      "formula": "=LEN(A2)",
+      "pass": true
+    },
+    {
+      "function": "LEN",
+      "formula": "=LEN(TRIM(A2))",
+      "pass": true
+    }
+  ],
+  "count": 120
+}

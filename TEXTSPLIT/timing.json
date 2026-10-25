@@ -1,0 +1,47 @@
+{
+  "name": "TEXTSPLIT",
+  "duration": 189.22848100000013,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "TEXTSPLIT",
+      "duration": 19.755691
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 21.435011
+    },
+    {
+      "title": "逗號分隔，向右拆欄",
+      "duration": 18.381134000000003
+    },
+    {
+      "title": "分號分隔，向下拆列",
+      "duration": 17.146213
+    },
+    {
+      "title": "同時拆成二維表格",
+      "duration": 18.635964
+    },
+    {
+      "title": "連續分隔符號，略過空項",
+      "duration": 16.026304
+    },
+    {
+      "title": "每列拆出的欄數不一致",
+      "duration": 15.786304000000001
+    },
+    {
+      "title": "指定補值，讓矩形完整",
+      "duration": 14.731202
+    },
+    {
+      "title": "你來判斷",
+      "duration": 18.57093
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 28.759728000000003
+    }
+  ]
+}

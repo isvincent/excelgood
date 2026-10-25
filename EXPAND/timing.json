@@ -1,0 +1,47 @@
+{
+  "name": "EXPAND",
+  "duration": 180.29777699999994,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "EXPAND",
+      "duration": 19.895646
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 18.64195
+    },
+    {
+      "title": "2×2 擴成 3×3",
+      "duration": 15.571247
+    },
+    {
+      "title": "只把列數擴成 4",
+      "duration": 17.091155999999998
+    },
+    {
+      "title": "只擴欄，補上連字號",
+      "duration": 14.636463
+    },
+    {
+      "title": "沒有指定補值，預設 #N/A",
+      "duration": 13.036916
+    },
+    {
+      "title": "不能用 EXPAND 縮小資料",
+      "duration": 17.266077
+    },
+    {
+      "title": "指定不小於來源的總尺寸",
+      "duration": 15.531066
+    },
+    {
+      "title": "你來判斷",
+      "duration": 20.055782
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 28.571474000000002
+    }
+  ]
+}

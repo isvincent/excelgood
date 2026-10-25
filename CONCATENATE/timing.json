@@ -1,0 +1,47 @@
+{
+  "name": "CONCATENATE",
+  "duration": 195.593922,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "CONCATENATE",
+      "duration": 19.350793000000003
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 17.455917999999997
+    },
+    {
+      "title": "把姓與名接起來",
+      "duration": 18.55093
+    },
+    {
+      "title": "中間加入指定符號",
+      "duration": 18.980589000000002
+    },
+    {
+      "title": "加入說明文字",
+      "duration": 19.190431
+    },
+    {
+      "title": "用 TEXT 保留日期格式",
+      "duration": 20.660817
+    },
+    {
+      "title": "不會自動插入空白",
+      "duration": 17.850929999999998
+    },
+    {
+      "title": "自行加入一個空格",
+      "duration": 20.78059
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.118004
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.654920000000004
+    }
+  ]
+}

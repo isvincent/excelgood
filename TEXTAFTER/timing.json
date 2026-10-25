@@ -1,0 +1,47 @@
+{
+  "name": "TEXTAFTER",
+  "duration": 202.86136000000002,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "TEXTAFTER",
+      "duration": 19.660771
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 26.379002
+    },
+    {
+      "title": "用 @ 取出後面文字",
+      "duration": 16.077368999999997
+    },
+    {
+      "title": "有多個分隔符號，從後面找",
+      "duration": 22.130657
+    },
+    {
+      "title": "用第 2 次分隔符號",
+      "duration": 14.741316000000001
+    },
+    {
+      "title": "需要時，忽略分隔文字大小寫",
+      "duration": 20.400499
+    },
+    {
+      "title": "沒有分隔符號，預設找不到",
+      "duration": 16.686121999999997
+    },
+    {
+      "title": "用最後一個參數提供備援",
+      "duration": 21.140045
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.845942
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 28.799636999999997
+    }
+  ]
+}

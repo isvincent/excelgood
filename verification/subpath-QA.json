@@ -1,0 +1,9 @@
+{
+  "github_project_subpath": true,
+  "subpath_offline_catalogue": true,
+  "visited_course_offline_audio": true,
+  "unvisited_course_offline_message": true,
+  "sound_on_generates_tone": true,
+  "sound_off_stops_tones": true,
+  "all_device_layout_options_mobile_desktop": true
+}

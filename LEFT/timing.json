@@ -1,0 +1,47 @@
+{
+  "name": "LEFT",
+  "duration": 194.66045499999998,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "LEFT",
+      "duration": 19.245805
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 18.650838999999998
+    },
+    {
+      "title": "從左邊取 2 個字元",
+      "duration": 19.390658000000002
+    },
+    {
+      "title": "省略個數，預設取 1 個",
+      "duration": 18.135964
+    },
+    {
+      "title": "個數大於長度，傳回整段",
+      "duration": 19.510431
+    },
+    {
+      "title": "中文也可以依字元擷取",
+      "duration": 20.536644000000003
+    },
+    {
+      "title": "字元數不能是負數",
+      "duration": 18.056327
+    },
+    {
+      "title": "零個字元，結果是空字串",
+      "duration": 19.360998000000002
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.276145
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.496644
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "courses": 19,
+  "catalogue_links_exist": true,
+  "mobile_no_horizontal_overflow": true,
+  "added_courses": {
+    "XLOOKUP": {
+      "linked_from_catalogue": true,
+      "source_html_unchanged": true,
+      "audio_playback": true,
+      "slides": 10
+    },
+    "UNIQUE": {
+      "linked_from_catalogue": true,
+      "source_html_unchanged": true,
+      "audio_playback": true,
+      "slides": 10
+    }
+  }
+}

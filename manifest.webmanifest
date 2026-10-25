@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "函數遊樂場｜Excel 視覺教室",
+  "short_name": "函數遊樂場",
+  "lang": "zh-Hant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffdf5",
+  "theme_color": "#176b50",
+  "description": "39 門可離線使用的 Excel 視覺教學課程",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "CHOOSEROWS",
+  "duration": 182.33863900000003,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "CHOOSEROWS",
+      "duration": 19.90585
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 22.714785
+    },
+    {
+      "title": "挑出第 1 與第 3 列",
+      "duration": 16.682494
+    },
+    {
+      "title": "交換順序：先第 3，再第 1 列",
+      "duration": 15.131609999999998
+    },
+    {
+      "title": "負一，從最後一列選取",
+      "duration": 15.376598999999999
+    },
+    {
+      "title": "同一列可以重複選取",
+      "duration": 18.946213
+    },
+    {
+      "title": "序號超出來源列數",
+      "duration": 14.021632
+    },
+    {
+      "title": "回到有效的第 1 與第 3 列",
+      "duration": 13.998458
+    },
+    {
+      "title": "你來判斷",
+      "duration": 17.45601
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 28.104988
+    }
+  ]
+}

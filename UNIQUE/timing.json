@@ -1,0 +1,46 @@
+{
+  "duration": 303.56321899999995,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "UNIQUE",
+      "duration": 29.239093
+    },
+    {
+      "title": "三個參數，先懂第一個",
+      "duration": 28.633333
+    },
+    {
+      "title": "不重複，和只出現一次",
+      "duration": 31.223219
+    },
+    {
+      "title": "多欄資料，整列一起比",
+      "duration": 24.71424
+    },
+    {
+      "title": "資料橫著排，改用 TRUE",
+      "duration": 29.089388
+    },
+    {
+      "title": "結果需要一塊空白區",
+      "duration": 30.153742
+    },
+    {
+      "title": "新增資料，也要納入範圍",
+      "duration": 29.99805
+    },
+    {
+      "title": "想排序，再加上 SORT",
+      "duration": 28.503719
+    },
+    {
+      "title": "你來判斷",
+      "duration": 30.918366999999996
+    },
+    {
+      "title": "一份清單，三個決定",
+      "duration": 41.090068
+    }
+  ]
+}

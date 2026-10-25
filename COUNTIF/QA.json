@@ -1,0 +1,22 @@
+{
+  "function": "COUNTIF",
+  "slides": 10,
+  "embedded_audio_clips": 20,
+  "audio_playback": true,
+  "audio_driven_mouth": true,
+  "pause_stops_mouth": true,
+  "all_slides_layout_checked": true,
+  "interactive_switch": true,
+  "quiz_feedback": true,
+  "automatic_clip_and_slide_advance": true,
+  "final_stop": true,
+  "speed_control": true,
+  "seek_control": true,
+  "mobile_no_horizontal_overflow": true,
+  "all_subtitle_chunks_fit_mobile": true,
+  "page_errors": [],
+  "mouth_range": [
+    4.661042594276258,
+    20.0
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "WRAPCOLS",
+  "duration": 178.856052,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "WRAPCOLS",
+      "duration": 19.476053999999998
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 21.724943
+    },
+    {
+      "title": "每欄 3 個，依序換欄",
+      "duration": 19.130884000000002
+    },
+    {
+      "title": "改成每欄 2 個",
+      "duration": 16.030974999999998
+    },
+    {
+      "title": "不足位置，改用連字號",
+      "duration": 15.596553
+    },
+    {
+      "title": "只有一維，橫排來源也可以",
+      "duration": 14.771654999999999
+    },
+    {
+      "title": "來源不能是二維表格",
+      "duration": 15.431065
+    },
+    {
+      "title": "使用單欄清單與有效個數",
+      "duration": 12.547619000000001
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.26127
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 27.885033999999997
+    }
+  ]
+}

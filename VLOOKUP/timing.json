@@ -1,0 +1,47 @@
+{
+  "name": "VLOOKUP",
+  "duration": 212.6188229999999,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "VLOOKUP",
+      "duration": 19.585759000000003
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 23.385759999999998
+    },
+    {
+      "title": "查代碼，取得價格",
+      "duration": 21.235374
+    },
+    {
+      "title": "同一代碼，改查商品名稱",
+      "duration": 22.536915999999998
+    },
+    {
+      "title": "升冪門檻，使用近似比對",
+      "duration": 23.940407999999998
+    },
+    {
+      "title": "用 IFNA 處理查無資料",
+      "duration": 21.405397
+    },
+    {
+      "title": "回傳欄超出表格寬度",
+      "duration": 16.777461
+    },
+    {
+      "title": "確認欄數，明確指定 FALSE",
+      "duration": 20.645443
+    },
+    {
+      "title": "你來判斷",
+      "duration": 17.20118
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.905124999999998
+    }
+  ]
+}

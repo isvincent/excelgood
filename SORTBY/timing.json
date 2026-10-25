@@ -1,0 +1,47 @@
+{
+  "name": "SORTBY",
+  "duration": 189.07941099999994,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "SORTBY",
+      "duration": 19.340771
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 22.360227
+    },
+    {
+      "title": "只回傳姓名，依分數排序",
+      "duration": 22.604853
+    },
+    {
+      "title": "依分數由低到高",
+      "duration": 14.296372
+    },
+    {
+      "title": "先按組別，再依分數降冪",
+      "duration": 17.191156
+    },
+    {
+      "title": "用額外序號，明確處理同分",
+      "duration": 18.725351
+    },
+    {
+      "title": "排序依據少了一筆",
+      "duration": 15.967483000000001
+    },
+    {
+      "title": "把範圍對齊，再排序",
+      "duration": 16.141497
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.496418
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.955283
+    }
+  ]
+}

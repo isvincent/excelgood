@@ -1,0 +1,47 @@
+{
+  "name": "RANDARRAY",
+  "duration": 194.74739300000002,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "RANDARRAY",
+      "duration": 19.080771
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 22.829796
+    },
+    {
+      "title": "3 列、2 欄，產生整數",
+      "duration": 19.648345
+    },
+    {
+      "title": "相同尺寸，改成小數",
+      "duration": 21.42068
+    },
+    {
+      "title": "像擲骰子，產生 5 個點數",
+      "duration": 16.792835
+    },
+    {
+      "title": "只產生一個隨機小數",
+      "duration": 20.325442
+    },
+    {
+      "title": "最小值不能大於最大值",
+      "duration": 14.391383000000001
+    },
+    {
+      "title": "修正上下限，保留整數模式",
+      "duration": 17.685896
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.496961
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.075284
+    }
+  ]
+}

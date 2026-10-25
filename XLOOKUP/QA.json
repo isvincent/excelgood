@@ -1,0 +1,16 @@
+{
+  "slides": 10,
+  "embedded_audio_clips": 30,
+  "audio_playback": true,
+  "amplitude_mouth_movement": true,
+  "pause_stops_mouth": true,
+  "clip_auto_advance": true,
+  "interactive_prices": true,
+  "quiz_feedback": true,
+  "mobile_no_horizontal_overflow": true,
+  "page_errors": [],
+  "mouth_sample_range": [
+    4.287621353504205,
+    20.0
+  ]
+}

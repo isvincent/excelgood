@@ -1,0 +1,47 @@
+{
+  "name": "LET",
+  "duration": 177.02567,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "LET",
+      "duration": 19.350839
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 18.180953000000002
+    },
+    {
+      "title": "用名稱表示一個數值",
+      "duration": 14.021905
+    },
+    {
+      "title": "改變定義，後面的計算跟著變",
+      "duration": 16.850975
+    },
+    {
+      "title": "兩組名稱，表達折扣計算",
+      "duration": 17.140907
+    },
+    {
+      "title": "重用同一段中間計算",
+      "duration": 16.930975
+    },
+    {
+      "title": "名稱不能與儲存格位址混淆",
+      "duration": 17.040953
+    },
+    {
+      "title": "使用有效名稱，保留最後計算",
+      "duration": 15.141359999999999
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.546394
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.820408999999998
+    }
+  ]
+}

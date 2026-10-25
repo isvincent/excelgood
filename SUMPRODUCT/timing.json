@@ -1,0 +1,47 @@
+{
+  "name": "SUMPRODUCT",
+  "duration": 197.85373999999996,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "SUMPRODUCT",
+      "duration": 19.360861
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 15.901178999999999
+    },
+    {
+      "title": "單價乘數量，求總金額",
+      "duration": 18.885714
+    },
+    {
+      "title": "只計算單價的平方總和",
+      "duration": 20.870159
+    },
+    {
+      "title": "條件成立時，才納入金額",
+      "duration": 22.165487
+    },
+    {
+      "title": "用權重，算加權平均",
+      "duration": 20.985714
+    },
+    {
+      "title": "陣列長度不一致",
+      "duration": 16.721043
+    },
+    {
+      "title": "讓每筆資料完整對應",
+      "duration": 22.145488
+    },
+    {
+      "title": "你來判斷",
+      "duration": 13.963311000000001
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.854784000000002
+    }
+  ]
+}

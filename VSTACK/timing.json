@@ -1,0 +1,47 @@
+{
+  "name": "VSTACK",
+  "duration": 196.751746,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "VSTACK",
+      "duration": 19.800771
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 21.49034
+    },
+    {
+      "title": "兩份 2×2 資料，上下合併",
+      "duration": 18.691293
+    },
+    {
+      "title": "交換參數，交換合併順序",
+      "duration": 17.032698
+    },
+    {
+      "title": "尺寸不齊，缺少位置補 #N/A",
+      "duration": 16.315963
+    },
+    {
+      "title": "只加一份來源，保留其形狀",
+      "duration": 15.262177000000001
+    },
+    {
+      "title": "合併不代表自動配對資料",
+      "duration": 20.720498
+    },
+    {
+      "title": "需要時，替換補位錯誤",
+      "duration": 18.750749
+    },
+    {
+      "title": "你來判斷",
+      "duration": 18.697688
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 29.989569000000003
+    }
+  ]
+}

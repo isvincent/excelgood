@@ -1,0 +1,47 @@
+{
+  "name": "SWITCH",
+  "duration": 195.09827499999997,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "SWITCH",
+      "duration": 18.980861
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 17.505941
+    },
+    {
+      "title": "把代碼轉成標籤",
+      "duration": 20.152199
+    },
+    {
+      "title": "改變代碼，取得另一個結果",
+      "duration": 20.067483
+    },
+    {
+      "title": "全部不符合，使用預設值",
+      "duration": 18.100862
+    },
+    {
+      "title": "文字也可以當比對值",
+      "duration": 16.78263
+    },
+    {
+      "title": "沒有相符項目，也沒有備援",
+      "duration": 19.465578
+    },
+    {
+      "title": "補上備援，確認是值比對",
+      "duration": 22.415419999999997
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.162222
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.465079
+    }
+  ]
+}

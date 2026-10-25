@@ -1,0 +1,47 @@
+{
+  "name": "COUNTIF",
+  "duration": 193.792699,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "COUNTIF",
+      "duration": 18.970839
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 17.481088999999997
+    },
+    {
+      "title": "計算 80 分有幾筆",
+      "duration": 17.476191
+    },
+    {
+      "title": "至少 80 分有幾筆",
+      "duration": 17.446213
+    },
+    {
+      "title": "條件引用儲存格",
+      "duration": 21.6
+    },
+    {
+      "title": "用萬用字元計算開頭",
+      "duration": 21.260181
+    },
+    {
+      "title": "把比較條件寫成普通文字",
+      "duration": 20.355646999999998
+    },
+    {
+      "title": "使用正確比較運算子",
+      "duration": 18.285941
+    },
+    {
+      "title": "你來判斷",
+      "duration": 14.761631999999999
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.154965999999998
+    }
+  ]
+}

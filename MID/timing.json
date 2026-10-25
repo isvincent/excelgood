@@ -1,0 +1,47 @@
+{
+  "name": "MID",
+  "duration": 191.82471700000002,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "MID",
+      "duration": 18.990793
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 16.626168
+    },
+    {
+      "title": "第 4 個字元開始，取 3 個",
+      "duration": 19.110748
+    },
+    {
+      "title": "換起點，取出前面的代碼",
+      "duration": 20.296055000000003
+    },
+    {
+      "title": "起點超過長度，回傳空字串",
+      "duration": 19.235828
+    },
+    {
+      "title": "取到結尾就停止",
+      "duration": 21.715465000000002
+    },
+    {
+      "title": "起點不能是 0",
+      "duration": 15.621769
+    },
+    {
+      "title": "改成有效的起點與個數",
+      "duration": 18.915737
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.031156
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.280998
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "HLOOKUP",
+  "duration": 193.0208620000001,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "HLOOKUP",
+      "duration": 19.575691
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 22.355328999999998
+    },
+    {
+      "title": "橫向找 P02，再取價格",
+      "duration": 19.935646
+    },
+    {
+      "title": "同一代碼，改取商品名稱",
+      "duration": 16.192154000000002
+    },
+    {
+      "title": "升冪門檻也能橫向查",
+      "duration": 17.960635
+    },
+    {
+      "title": "另外處理查無代碼",
+      "duration": 17.976145
+    },
+    {
+      "title": "超過來源的列數",
+      "duration": 17.795737
+    },
+    {
+      "title": "改回有效列數，明確完全相符",
+      "duration": 18.526168000000002
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.756146
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 25.947211
+    }
+  ]
+}

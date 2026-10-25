@@ -1,0 +1,47 @@
+{
+  "name": "DATEDIF",
+  "duration": 205.84299300000006,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "DATEDIF",
+      "duration": 20.050748
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 16.296599
+    },
+    {
+      "title": "未到週年，完整年數還少一年",
+      "duration": 21.690839
+    },
+    {
+      "title": "到了週年，就滿 6 年",
+      "duration": 21.351836
+    },
+    {
+      "title": "用 M 計算完整月數",
+      "duration": 18.795737
+    },
+    {
+      "title": "用 D 計算相隔天數",
+      "duration": 22.889932
+    },
+    {
+      "title": "開始日期晚於結束日期",
+      "duration": 15.046576
+    },
+    {
+      "title": "修正日期順序，選用適當單位",
+      "duration": 25.019955
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.376055
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 28.324716000000002
+    }
+  ]
+}

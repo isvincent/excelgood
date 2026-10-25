@@ -1,0 +1,47 @@
+{
+  "name": "OFFSET",
+  "duration": 204.73161000000007,
+  "voice": "Microsoft Zhiwei, zh-TW, Male, Rate=0",
+  "slides": [
+    {
+      "title": "OFFSET",
+      "duration": 19.815646
+    },
+    {
+      "title": "參數怎麼讀",
+      "duration": 19.750884
+    },
+    {
+      "title": "從 A2 往下 1、往右 2",
+      "duration": 19.265715
+    },
+    {
+      "title": "保持列不動，只往右 1",
+      "duration": 20.530566999999998
+    },
+    {
+      "title": "給定高度與寬度，再加總",
+      "duration": 21.925351
+    },
+    {
+      "title": "負數可以往上或往左",
+      "duration": 17.101813999999997
+    },
+    {
+      "title": "偏移超出工作表邊界",
+      "duration": 18.830749
+    },
+    {
+      "title": "確認偏移與範圍尺寸",
+      "duration": 24.479773
+    },
+    {
+      "title": "你來判斷",
+      "duration": 16.281179
+    },
+    {
+      "title": "記住這三件事",
+      "duration": 26.749932
+    }
+  ]
+}

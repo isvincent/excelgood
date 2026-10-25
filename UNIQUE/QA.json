@@ -1,0 +1,20 @@
+{
+  "slides": 10,
+  "embedded_audio_clips": 30,
+  "audio_playback": true,
+  "audio_amplitude_mouth": true,
+  "pause_stops_mouth": true,
+  "automatic_clip_advance": true,
+  "automatic_slide_advance": true,
+  "exactly_once_toggle": true,
+  "spill_clear_interaction": true,
+  "table_add_interaction": true,
+  "quiz_feedback": true,
+  "all_svg_text_within_horizontal_bounds": true,
+  "mobile_no_horizontal_overflow": true,
+  "page_errors": [],
+  "mouth_range": [
+    4.331117951197413,
+    20.0
+  ]
+}
